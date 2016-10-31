@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/sesbounce</path>
+    <page_callback>CRM_Sesbounce_Page_SESBounce</page_callback>
+    <title>SESBounce</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
